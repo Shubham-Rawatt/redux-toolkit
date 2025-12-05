@@ -20,3 +20,9 @@ const taskSlice = createSlice({
 })
 
 export default taskSlice.reducer;
+
+
+//   store.js 
+//   slice.js
+//   useDispatch
+//   useReducer
